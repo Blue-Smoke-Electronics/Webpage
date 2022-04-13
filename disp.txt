@@ -1,0 +1,102 @@
+
+bpb	
+
+	What is a pbp
+		when to use a powersupply 
+			adjustable voltage source 
+				batteryes can be used, but not ajustable, it is like always having the correct battery at hand.  
+
+			adjustable current source 
+				driving LEDs 
+				
+			vlotage and current meater 
+				no need for alway using two multimeters
+				
+			protection
+				avoid damaging circuits by limiting current and voltage spikes under fault conditions
+				the powersupply can handle bad circuits. 
+					not damaged by shorted cables 
+				 
+				
+		why would you want it to be portable 
+			out doors projects 
+				cars
+				can catch fire projects 
+				on bord an rc cars/drones/bouts 
+			take it home from work 
+				use it when youre dinner table needs to be reclassified as a electornics lab for a fiew deays 
+				use it to power youre sdk when sitting in your living room coutch writing some firmware 
+			around the house 
+				do not have a powerssource close at hand when testing out youre dyi window opening system? use a pbp 
+			when on public transportation 
+				Spending long time trains, why not add a pbp to youre portable lab suitcase? 
+			store it in a drawr 
+				do youre kids not have there own electonics labs, but do like to do sience esperiments from time to time? 
+		
+		other benefits of a battery 
+			can deliver high power peaks with smal input current. 
+				a normal usb port can delviver 2.5W, the battery can delviver 200W in short periodes. 
+				the powersupply need only the size of the avrage power draw, not the peak
+			Can be truly isolated form the grid. 
+				no ground loops 
+				noice isolation 
+				only low voltage levels making it imposible to be electrocuted 
+					can savely be used close to water 
+						electorlysis of water 
+						rc boat tesing 
+				
+		
+		specs 
+			copy form wiki 
+		
+		bye one 
+			stil in development but register here, and you will be notified when they avialbel 
+		
+		build youre own 
+			here (link) you can find a description of how to build youre own unint. let me know if the documentation is uncleare or you have made a improvment that shuld be implemented in the main branch. 
+	
+		the open source project 
+				all documentation is part of this project 
+				link 
+					
+	timeline 
+		read about the projec progress in the wiki blog 
+		first fue units ready for sale by end of year 
+		alpha units out by end of Q2
+
+
+
+
+
+blue smoke 
+	goles
+		stay local
+			suport development of rural envirements 
+			
+		stay small 
+			low cost 
+			personal suport 				
+donations 
+	posible to spend more time on crating opensource content 
+		if all revinue is from sales all focus must be on producing units and suport of customers 
+	send me a emali if you are intrested in making a donation 
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
