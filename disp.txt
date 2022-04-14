@@ -28,6 +28,8 @@ bpb
 				use it to power youre sdk when sitting in your living room coutch writing some firmware 
 			around the house 
 				do not have a powerssource close at hand when testing out youre dyi window opening system? use a pbp 
+			at the factory floor 
+				
 			when on public transportation 
 				Spending long time trains, why not add a pbp to youre portable lab suitcase? 
 			store it in a drawr 
